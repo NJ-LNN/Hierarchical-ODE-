@@ -1,0 +1,41 @@
+time,ssid,bssid,rssi,rsrp1,rsrp2,rtt1,rtt2,using_wifi,using_cell,manual_flag
+2025-01-15 10:26:14.645,"Huawei-Employee",ac:75:1d:f6:2c:51,-64,-63,-98,105,708,0,1,default
+2025-01-15 10:26:16.540,"Huawei-Employee",ac:75:1d:f6:2c:51,-68,-60,-83,34,741,0,1,default
+2025-01-15 10:26:18.407,"Huawei-Employee",ac:75:1d:f6:2c:51,-60,-60,-83,31,798,0,1,default
+2025-01-15 10:26:20.324,"Huawei-Employee",ac:75:1d:f6:2c:51,-60,-60,-83,42,801,0,1,default
+2025-01-15 10:26:22.257,"Huawei-Employee",ac:75:1d:f6:2c:51,-56,-60,-83,139,958,1,0,default
+2025-01-15 10:26:24.416,"Huawei-Employee",ac:75:1d:f6:2c:51,-52,-60,-83,27,331,1,0,default
+2025-01-15 10:26:25.845,"Huawei-Employee",ac:75:1d:f6:2c:51,-52,-60,-83,39,466,1,0,default
+2025-01-15 10:26:27.447,"Huawei-Employee",ac:75:1d:f6:2c:51,-58,-60,-83,33,457,1,0,default
+2025-01-15 10:26:29.004,"Huawei-Employee",ac:75:1d:f6:2c:51,-58,-60,-83,39,469,1,0,default
+2025-01-15 10:26:30.610,"Huawei-Employee",ac:75:1d:f6:2c:51,-64,-60,-83,40,459,1,0,default
+2025-01-15 10:26:32.206,"Huawei-Employee",ac:75:1d:f6:2c:51,-64,-60,-83,40,477,1,0,default
+2025-01-15 10:26:33.835,"Huawei-Employee",ac:75:1d:f6:2c:51,-70,-71,-101,147,457,1,0,default
+2025-01-15 10:26:35.509,"Huawei-Employee",ac:75:1d:f6:2c:51,-59,-71,-101,106,510,1,0,default
+2025-01-15 10:26:37.204,"Huawei-Employee",ac:75:1d:d7:db:d1,-59,-71,-101,37,461,1,0,default
+2025-01-15 10:26:38.777,"Huawei-Employee",ac:75:1d:d7:db:d1,-57,-71,-101,41,462,1,0,default
+2025-01-15 10:26:40.354,"Huawei-Employee",ac:75:1d:d7:db:d1,-57,-71,-101,41,464,1,0,default
+2025-01-15 10:26:41.944,"Huawei-Employee",ac:75:1d:d7:db:d1,-61,-71,-101,34,460,1,0,default
+2025-01-15 10:26:43.519,"Huawei-Employee",ac:75:1d:d7:db:d1,-61,-71,-101,45,462,1,0,default
+2025-01-15 10:26:45.110,"Huawei-Employee",ac:75:1d:d7:db:d1,-62,-71,-101,40,461,1,0,default
+2025-01-15 10:26:46.694,"Huawei-Employee",ac:75:1d:d7:db:d1,-62,-71,-101,39,456,1,0,default
+2025-01-15 10:26:48.272,"Huawei-Employee",ac:75:1d:d7:db:d1,-63,-71,-101,44,462,1,0,default
+2025-01-15 10:26:49.851,"Huawei-Employee",ac:75:1d:d7:db:d1,-63,-71,-101,68,462,1,0,default
+2025-01-15 10:26:51.469,"Huawei-Employee",ac:75:1d:d7:db:d1,-70,-65,170,562,1,0,default
+2025-01-15 10:26:53.269,"Huawei-Employee",ac:75:1d:d7:db:d1,-70,-65,34,333,1,0,default
+2025-01-15 10:26:54.723,"Huawei-Employee",7c:c3:85:7c:e0:71,-43,-65,28,477,1,0,default
+2025-01-15 10:26:56.322,"Huawei-Employee",7c:c3:85:7c:e0:71,-43,-65,40,462,1,0,default
+2025-01-15 10:26:57.918,"Huawei-Employee",7c:c3:85:7c:e0:71,-61,-65,54,486,1,0,default
+2025-01-15 10:26:59.553,"Huawei-Employee",7c:c3:85:7c:e0:71,-61,-65,58,454,1,0,default
+2025-01-15 10:27:01.152,"Huawei-Employee",7c:c3:85:7c:e0:71,-71,-65,41,465,1,0,default
+2025-01-15 10:27:02.759,"Huawei-Employee",7c:c3:85:7c:e0:71,-71,-65,42,579,1,0,default
+2025-01-15 10:27:04.477,"Huawei-Employee",7c:c3:85:7c:e0:71,-53,-65,39,522,1,0,default
+2025-01-15 10:27:06.093,"Huawei-Employee",7c:c3:85:7c:f4:11,-53,-65,38,358,1,0,default
+2025-01-15 10:27:07.567,"Huawei-Employee",7c:c3:85:7c:f4:11,-71,-65,304,331,1,0,Door1_1
+2025-01-15 10:27:09.237,"Huawei-Employee",7c:c3:85:7c:f4:11,-71,-86,-97,,47,461,1,0,default
+2025-01-15 10:27:10.816,"Huawei-Employee",7c:c3:85:7c:f4:11,-84,-86,-97,,218,557,1,0,default
+2025-01-15 10:27:12.646,"Huawei-Employee",7c:c3:85:7c:f4:11,-86,-86,-97,,117,1059,0,1,default
+2025-01-15 10:27:14.898,"Huawei-Employee",7c:c3:85:7c:f4:11,-86,-86,-97,,34,595,0,1,default
+2025-01-15 10:27:16.675,"Huawei-Employee",7c:c3:85:7c:f4:11,-86,-89,-117,,44,616,0,1,default
+2025-01-15 10:27:18.419,<unknown ssid>,null,-127,-89,-117,,42,566,0,1,default
+2025-01-15 10:27:20.096,<unknown ssid>,null,-127,-88,-114,,55,317,0,1,default
